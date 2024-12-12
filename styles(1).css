@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+    background-image: url(https://img.freepik.com/free-vector/gradient-technology-futuristic-background_52683-75946.jpg?w=360);
+    text-decoration-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+
+}
+
+.container {
+    background-color: darkblue;
+    padding: 50px;
+     background-color: rgba(65, 105, 225, 0.6); /* Royal Blue with 80% opacity */
+    padding: 50px;
+    border-radius: 10px; /* Optional: adds rounded corners */
+}
+
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+textarea {
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
